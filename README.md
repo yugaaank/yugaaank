@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently pursuing Computer science with specialization in AI and ML
 - 📫 How to reach me e-mail address - yugaankrathore0@gmail.com
+- LinkedIn - https://www.linkedin.com/in/yugank-rathore-617614317/
 - 😄 Pronouns: he/him 
 
 <!---
