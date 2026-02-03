@@ -43,5 +43,5 @@ I like projects that feel real, not tutorial leftovers.
 Thanks for stopping by.
 
 ## Tools
-![](https://skillicons.dev/icons?i=linux,java,python,git,html,css,js,rust,arch,nextjs,react,java,c,cpp,hyprland,)
+![](https://skillicons.dev/icons?i=linux,java,python,git,html,css,js,rust,arch,nextjs,react,java,c,cpp,docker)
 
