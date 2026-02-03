@@ -45,7 +45,7 @@ Thanks for stopping by.
 ## GitHub Stats
 | Stats | Streak |
 |------|--------|
-| ![](STATS_URL) | ![](STREAK_URL) |
+| ![](https://github-readme-stats.vercel.app/api?username=yugaaank) | ![](STREAK_URL) |
 
 ## Languages
 ![](LANGS_URL)
