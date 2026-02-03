@@ -40,15 +40,15 @@ I like projects that feel real, not tutorial leftovers.
 
 ---
 
-Thanks for stopping by.
+## Thanks for stopping by.
 
 ## GitHub Stats
 | Stats | Streak |
 |------|--------|
-| ![](https://github-readme-stats.vercel.app/api?username=yugaaank) | ![](STREAK_URL) |
+| ![](https://github-readme-stats.vercel.app/api?username=yugaaank&show_icons=true&theme=tokyonight&cache_seconds=1800) | ![](https://streak-stats.demolab.com?user=yugaaank&theme=tokyonight) |
 
 ## Languages
-![](LANGS_URL)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yugaaank&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## Tools
 ![](https://skillicons.dev/icons?i=linux,java,python,git,html,css,js)
