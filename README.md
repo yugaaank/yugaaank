@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Yug
 
 I'm a 2nd year Computer Science student who enjoys building things that actually work, breaking them, and then fixing them properly.  
-Currently exploring **RUST**, **AIML fundamentals**.
-
 I like projects that feel real, not tutorial leftovers.
 
 ---
