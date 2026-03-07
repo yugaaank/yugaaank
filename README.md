@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Yug
+# Hi, I'm Yug
 
 I'm a 2nd year Computer Science student who enjoys building things that actually work, breaking them, and then fixing them properly.  
 I like projects that feel real, not tutorial leftovers.
 
 ---
 
-## 🚀 What I’m Working On
+## What I’m Working On
 - C/C++, Rust and backend fundamentals
 - AI/ML concepts with practical applications in healthcare sector 
 - Robotics & prosthetic-related projects (hobby)
