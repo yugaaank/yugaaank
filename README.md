@@ -1,6 +1,6 @@
 # Hi, I'm Yug
 
-I'm a 2nd year Computer Science student who enjoys building things that actually work, breaking them, and then fixing them properly.  
+I'm a 3rd year Computer Science student who enjoys building things that actually work, breaking them, and then fixing them properly.  
 I like projects that feel real, not tutorial leftovers.
 
 ---
