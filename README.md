@@ -3,6 +3,7 @@
 I'm a 3rd year Computer Science student who enjoys building things that actually work, breaking them, and then fixing them properly.  
 I like projects that feel real, not tutorial leftovers.
 
+[![My GitFut card](https://gitfut.com/yugaaank.png)](https://gitfut.com/yugaaank)
 ---
 
 ## What I’m Working On
