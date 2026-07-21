@@ -1,46 +1,42 @@
-# Hi, I'm Yug
+# Yugank Rathore
 
-I'm a 3rd year Computer Science student who enjoys building things that actually work, breaking them, and then fixing them properly.  
-I like projects that feel real, not tutorial leftovers.
-
----
-
-## What I’m Working On
-- C/C++, Rust and backend fundamentals
-- AI/ML concepts with practical applications in healthcare sector 
-- Robotics & prosthetic-related projects (hobby)
-- Web projects using NextJS
-- Archinux Hyprland Config 
+CS student. I build CLI tools in Rust, tinker with low-level systems, and occasionally make things that run on phones.
 
 ---
 
+## What I Build
 
-## 🛠 Tech Stack
-**Languages:**  
-- Java  
-- Rust 
-- C/C++
-- Python
-- JavaScript  
-- TypeScript  
+**Rust CLI tools** — I write small, focused terminal tools when existing ones annoy me.
+[lexcode](https://github.com/yugaaank/lexcode) · code snippets from a local SQLite DB, fast.
+[ffflow](https://github.com/yugaaank/ffflow) · structured ffmpeg workflows, no more command-line chaos.
 
-**Web & Tools:**  
-- HTML, CSS
-- React, NextJS  
-- Angular  
-- Linux (Arch-based)  
-- Git & GitHub  
+**AI stuff that does something** — not chatbot wrappers.
+[agent-script](https://github.com/yugaaank/agent-script) · multi-agent dev pipeline using Gemini CLI.
+[contx](https://github.com/yugaaank/contx) · context management for AI-assisted dev workflows.
+[InterventionGPT](https://github.com/yugaaank/InterventionGPT) · RAG pipeline for road safety analysis (IITM Hackathon).
 
-**Currently Learning:**  
-- Deeper Rust internals  
-- ML foundations  
-- Better software architecture habits  
+**Systems & low-level** — because I like knowing how things actually work.
+[os-dev](https://github.com/yugaaank/os-dev) · x86 bootloader examples, hello world from bare metal.
+[Page-Allocation-Simulator](https://github.com/yugaaank/Page-Allocation-Simulator) · C++ OS page allocation sim.
+
+**Web** — when I need a frontend.
+[blog](https://github.com/yugaaank/blog) · Next.js 16 + MDX, writes about Rust/C/Linux.
+[portfolio_v2](https://github.com/yugaaank/portfolio_v2) · Vite-based portfolio.
 
 ---
 
-Thanks for stopping by.
+## Tech
 
-## Tools
-![](https://skillicons.dev/icons?i=linux,java,python,git,html,css,js,rust,arch,nextjs,react,java,c,cpp,docker)
+`Rust` `Python` `TypeScript` `C/C++` `Java` `JavaScript`
+`React` `Next.js` `Expo` `Node.js`
+`Linux` `Arch + Hyprland` `Git` `Docker`
 
-![Loading](gif.gif)
+---
+
+## Elsewhere
+
+🌐 [yugank.vercel.app](https://yugank.vercel.app)
+🐦 [@yugaaank](https://twitter.com/yugaaank)
+📧 yugaankrathore0@gmail.com
+
+![](https://skillicons.dev/icons?i=rust,python,ts,cpp,java,linux,arch,react,nextjs,docker,git)
