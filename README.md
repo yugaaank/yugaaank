@@ -26,9 +26,9 @@ Rust, Python, TypeScript, C/C++, Java, JavaScript -- React, Next.js, Expo, Node.
 
 ## Contact / Links
 
-[yugank.vercel.app](https://yugank.vercel.app) -- [@yugaaank](https://twitter.com/yugaaank) -- yugaankrathore0@gmail.com
+[Portfolio](https://yugank.vercel.app) -- [@yugaaank](https://twitter.com/yugaaank) -- yugaankrathore0@gmail.com -- [Blog](https://ygnk.vercel.app)
 
-[Blog](https://ygnk.vercel.app)
+
 
 ---
 
