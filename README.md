@@ -24,9 +24,11 @@ CS student. I write Rust CLI tools, tinker with operating systems, and occasiona
 
 Rust, Python, TypeScript, C/C++, Java, JavaScript -- React, Next.js, Expo, Node.js -- Linux (Arch + Hyprland), Docker, Git
 
-## Contact
+## Contact / Links
 
 [yugank.vercel.app](https://yugank.vercel.app) -- [@yugaaank](https://twitter.com/yugaaank) -- yugaankrathore0@gmail.com
+
+[Blog][https://ygnk.vercel.app]
 
 ---
 
