@@ -2,6 +2,8 @@
 
 CS student. I write Rust CLI tools, tinker with operating systems, and occasionally make things that run on phones.
 
+**Active Maintainer of (https://github.com/ciscobugger/tacit)**
+
 ## What I Work On
 
 **Rust CLI tools** -- small terminal tools for problems I actually have.
