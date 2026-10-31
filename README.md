@@ -2,7 +2,7 @@
 
 CS student. I write Rust CLI tools, tinker with operating systems, and occasionally make things that run on phones.
 
-**Active Maintainer of (https://github.com/ciscobugger/tacit)**
+**Currently Working on [Tacit](https://github.com/ciscobugger/tacit) a linux desktop for modern AND ease of use for newcomers**
 
 ## What I Work On
 
