@@ -2,7 +2,7 @@
 
 CS student. I write Rust CLI tools, tinker with operating systems, and occasionally make things that run on phones.
 
-**Currently Working on [Tacit](https://github.com/ciscobugger/tacit) a linux desktop for modern AND ease of use for newcomers**
+**Currently Working on [eswm](https://github.com/yugaaank/eswm) a Linux Wayland window compositor and [Tacit](https://github.com/ciscobugger/tacit) a Linux desktop for modern AND ease of use for newcomers**
 
 ## What I Work On
 
